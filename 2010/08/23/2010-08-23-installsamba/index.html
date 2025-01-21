@@ -24,7 +24,7 @@
   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   
 
-<meta name="generator" content="Hexo 6.3.0"></head>
+<meta name="generator" content="Hexo 7.3.0"></head>
 
 
 <body>
@@ -66,7 +66,7 @@
 <p><strong>3、# whereis samba</strong><br>由于是yum安装，可以用此命令查看samba安装位置，得到类似如下内容：<br>samba: &#x2F;etc&#x2F;samba &#x2F;usr&#x2F;lib&#x2F;samba &#x2F;usr&#x2F;share&#x2F;samba &#x2F;usr&#x2F;share&#x2F;man&#x2F;man7&#x2F;samba.7.gz</p>
 <p><strong>4、# vi &#x2F;etc&#x2F;samba&#x2F;smb.conf</strong><br>根据步骤3得知smb.conf的位置，配置samba：<br>（1）[global]        找到全局设置标签，在下面进行配置<br>workgroup &#x3D; MYGROUP       找到此行，改为workgroup &#x3D; WORKGROUP，这里以 Windows XP 默认的“WORKGROUP”为例<br>（2）配置最简单访问目录几个基本属性：<br>[share]       windows客户端查看时看到的文件夹名<br>path &#x3D; &#x2F;var&#x2F;samba&#x2F;share       共享目录位置，要系统中存在的目录，也可以配置完再创建<br>read only &#x3D; no<br>public   &#x3D; yes<br>我在操作的时候觉得这些都没必要的。</p>
 <p>5、给配置的共享目录设置权限：</p>
-<h1 id="mkdir-x2F-var-x2F-samba-x2F-share-如刚才配置的共享目录不存在则创建"><a href="#mkdir-x2F-var-x2F-samba-x2F-share-如刚才配置的共享目录不存在则创建" class="headerlink" title="mkdir &#x2F;var&#x2F;samba&#x2F;share       如刚才配置的共享目录不存在则创建"></a>mkdir &#x2F;var&#x2F;samba&#x2F;share       如刚才配置的共享目录不存在则创建</h1><h1 id="chown-R-nobody-x2F-var-x2F-samba-x2F-share-设置共享目录归属为-nobody"><a href="#chown-R-nobody-x2F-var-x2F-samba-x2F-share-设置共享目录归属为-nobody" class="headerlink" title="chown -R nobody. &#x2F;var&#x2F;samba&#x2F;share       设置共享目录归属为 nobody"></a>chown -R nobody. &#x2F;var&#x2F;samba&#x2F;share       设置共享目录归属为 nobody</h1><h1 id="chmod-777-x2F-var-x2F-samba-x2F-share-将共享目录属性设置为-777"><a href="#chmod-777-x2F-var-x2F-samba-x2F-share-将共享目录属性设置为-777" class="headerlink" title="chmod 777 &#x2F;var&#x2F;samba&#x2F;share       将共享目录属性设置为 777"></a>chmod 777 &#x2F;var&#x2F;samba&#x2F;share       将共享目录属性设置为 777</h1><p><strong>6、# smbpasswd -a username</strong><br>将linux系统已存在用户 username（例）加入到 Samba 用户数据库，windows访问samba共享目录时需要输入此用户名和密码。<br>这步才是关键，加入这个用户之后好像会默认将这个用户的用户路径添加为共享目录。<br>New SMB password:       在此输入密码<br>Retype new SMB password:       重复密码</p>
+<h1 id="mkdir-var-samba-share-如刚才配置的共享目录不存在则创建"><a href="#mkdir-var-samba-share-如刚才配置的共享目录不存在则创建" class="headerlink" title="mkdir &#x2F;var&#x2F;samba&#x2F;share       如刚才配置的共享目录不存在则创建"></a>mkdir &#x2F;var&#x2F;samba&#x2F;share       如刚才配置的共享目录不存在则创建</h1><h1 id="chown-R-nobody-var-samba-share-设置共享目录归属为-nobody"><a href="#chown-R-nobody-var-samba-share-设置共享目录归属为-nobody" class="headerlink" title="chown -R nobody. &#x2F;var&#x2F;samba&#x2F;share       设置共享目录归属为 nobody"></a>chown -R nobody. &#x2F;var&#x2F;samba&#x2F;share       设置共享目录归属为 nobody</h1><h1 id="chmod-777-var-samba-share-将共享目录属性设置为-777"><a href="#chmod-777-var-samba-share-将共享目录属性设置为-777" class="headerlink" title="chmod 777 &#x2F;var&#x2F;samba&#x2F;share       将共享目录属性设置为 777"></a>chmod 777 &#x2F;var&#x2F;samba&#x2F;share       将共享目录属性设置为 777</h1><p><strong>6、# smbpasswd -a username</strong><br>将linux系统已存在用户 username（例）加入到 Samba 用户数据库，windows访问samba共享目录时需要输入此用户名和密码。<br>这步才是关键，加入这个用户之后好像会默认将这个用户的用户路径添加为共享目录。<br>New SMB password:       在此输入密码<br>Retype new SMB password:       重复密码</p>
 <p><strong>7、# service smb start</strong><br>由于是yum安装可用此命令启动samba。</p>
 <p>8、打开你的Windows，使用\IP就可以访问Linux的文件了。</p>
 <p>恭喜！</p>
