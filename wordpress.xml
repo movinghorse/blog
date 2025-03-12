@@ -55,7 +55,7 @@
 		<link>http://www.yeahxj.com/2009/10/24/begin-bloger-2/20080715141052450_s/</link>
 		<pubDate>Sat, 24 Oct 2009 08:56:04 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/20080715141052450_S.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/20080715141052450_S.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -71,7 +71,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/20080715141052450_S.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/20080715141052450_S.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"340";s:6:"height";s:3:"340";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:23:"20080715141052450_S.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:31:"20080715141052450_S-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:31:"20080715141052450_S-300x300.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"300";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
@@ -86,7 +86,7 @@
 		<link>http://www.yeahxj.com/2009/10/24/begin-bloger-2/attachment/20070424143801851240/</link>
 		<pubDate>Sat, 24 Oct 2009 09:16:20 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/20070424143801851240.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/20070424143801851240.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -102,7 +102,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/20070424143801851240.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/20070424143801851240.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[20070424143801851240.jpg]]></wp:meta_value>
@@ -117,7 +117,7 @@
 		<link>http://www.yeahxj.com/2009/10/31/a-detail/interactiondesign/</link>
 		<pubDate>Sat, 31 Oct 2009 02:43:19 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/InteractionDesign.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/InteractionDesign.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -133,7 +133,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/InteractionDesign.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/InteractionDesign.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[InteractionDesign.jpg]]></wp:meta_value>
@@ -148,7 +148,7 @@
 		<link>http://www.yeahxj.com/2009/10/31/a-detail/interactiondesign2/</link>
 		<pubDate>Sat, 31 Oct 2009 02:45:00 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/InteractionDesign2.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/InteractionDesign2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -164,7 +164,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/InteractionDesign2.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/InteractionDesign2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[InteractionDesign2.jpg]]></wp:meta_value>
@@ -179,7 +179,7 @@
 		<link>http://www.yeahxj.com/2009/11/24/new-website/fandongxi/</link>
 		<pubDate>Mon, 23 Nov 2009 15:58:37 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/fandongxi.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/fandongxi.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[翻东西挂掉的产品页]]></content:encoded>
 		<excerpt:encoded><![CDATA[翻东西]]></excerpt:encoded>
@@ -195,7 +195,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/fandongxi.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/fandongxi.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[fandongxi.jpg]]></wp:meta_value>
@@ -210,7 +210,7 @@
 		<link>http://www.yeahxj.com/?attachment_id=119</link>
 		<pubDate>Fri, 27 Nov 2009 15:31:16 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/new-google.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/new-google.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[新Google搜索展示]]></content:encoded>
 		<excerpt:encoded><![CDATA[新Google搜索展示]]></excerpt:encoded>
@@ -226,7 +226,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/new-google.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/new-google.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[new-google.jpg]]></wp:meta_value>
@@ -241,7 +241,7 @@
 		<link>http://www.yeahxj.com/2009/12/07/font-face/font-face/</link>
 		<pubDate>Sun, 06 Dec 2009 15:58:00 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/@font-face.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/@font-face.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[@font-face]]></content:encoded>
 		<excerpt:encoded><![CDATA[@font-face]]></excerpt:encoded>
@@ -257,7 +257,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/@font-face.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/@font-face.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[@font-face.jpg]]></wp:meta_value>
@@ -272,7 +272,7 @@
 		<link>http://www.yeahxj.com/2009/12/13/javascript-difference-between-array-and-object/javascript-the-good-parts/</link>
 		<pubDate>Sun, 13 Dec 2009 15:37:22 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/javascript-the-good-parts.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/javascript-the-good-parts.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Javascript 语言精粹]]></excerpt:encoded>
@@ -288,7 +288,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/javascript-the-good-parts.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/javascript-the-good-parts.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[javascript-the-good-parts.jpg]]></wp:meta_value>
@@ -303,7 +303,7 @@
 		<link>http://www.yeahxj.com/2010/01/08/kelly-clarkson-ft-reba-mcentire-because-of-you/kelly-clarkson/</link>
 		<pubDate>Thu, 07 Jan 2010 17:08:22 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/Kelly-Clarkson.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/Kelly-Clarkson.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -319,7 +319,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/Kelly-Clarkson.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/Kelly-Clarkson.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[Kelly-Clarkson.jpg]]></wp:meta_value>
@@ -334,7 +334,7 @@
 		<link>http://www.yeahxj.com/2010/02/21/jasmine-flower-song/molihua/</link>
 		<pubDate>Sun, 21 Feb 2010 05:15:41 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/molihua.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/molihua.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[好一朵美丽的茉莉花]]></content:encoded>
 		<excerpt:encoded><![CDATA[好一朵美丽的茉莉花]]></excerpt:encoded>
@@ -350,7 +350,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/molihua.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/molihua.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[molihua.jpg]]></wp:meta_value>
@@ -369,7 +369,7 @@
 		<link>http://www.yeahxj.com/2010/02/23/regular-expression/c728354/</link>
 		<pubDate>Tue, 23 Feb 2010 04:35:03 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/c728354.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/c728354.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[正则表达式]]></content:encoded>
 		<excerpt:encoded><![CDATA[正则表达式]]></excerpt:encoded>
@@ -385,7 +385,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/c728354.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/c728354.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[c728354.jpg]]></wp:meta_value>
@@ -404,7 +404,7 @@
 		<link>http://www.yeahxj.com/2010/02/26/mother/mother/</link>
 		<pubDate>Thu, 25 Feb 2010 16:29:35 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/mother.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/mother.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[mother]]></content:encoded>
 		<excerpt:encoded><![CDATA[mother]]></excerpt:encoded>
@@ -420,7 +420,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/mother.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/mother.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[mother.jpg]]></wp:meta_value>
@@ -439,7 +439,7 @@
 		<link>http://www.yeahxj.com/2010/03/02/document-database/sketch/</link>
 		<pubDate>Tue, 02 Mar 2010 11:40:03 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/sketch.png</guid>
+		<guid isPermaLink="false">/wp-content/uploads/sketch.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[CouchDB]]></content:encoded>
 		<excerpt:encoded><![CDATA[CouchDB]]></excerpt:encoded>
@@ -455,7 +455,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/sketch.png</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/sketch.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[sketch.png]]></wp:meta_value>
@@ -474,7 +474,7 @@
 		<link>http://www.yeahxj.com/2010/03/03/godaddy/candice-michelle-go-daddy/</link>
 		<pubDate>Wed, 03 Mar 2010 11:33:06 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/candice-michelle-go-daddy.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/candice-michelle-go-daddy.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -490,7 +490,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/candice-michelle-go-daddy.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/candice-michelle-go-daddy.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[candice-michelle-go-daddy.jpg]]></wp:meta_value>
@@ -505,7 +505,7 @@
 		<link>http://www.yeahxj.com/2010/03/05/why-firefox-javascript-speed-slow/firefox-chrome-ie/</link>
 		<pubDate>Fri, 05 Mar 2010 15:14:45 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/firefox-chrome-ie.png</guid>
+		<guid isPermaLink="false">/wp-content/uploads/firefox-chrome-ie.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[firefox-chrome-ie]]></content:encoded>
 		<excerpt:encoded><![CDATA[firefox-chrome-ie]]></excerpt:encoded>
@@ -521,7 +521,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/firefox-chrome-ie.png</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/firefox-chrome-ie.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[firefox-chrome-ie.png]]></wp:meta_value>
@@ -540,7 +540,7 @@
 		<link>http://www.yeahxj.com/2010/04/02/open-source/opensourceubuntu/</link>
 		<pubDate>Fri, 02 Apr 2010 15:09:57 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/opensourceubuntu.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/opensourceubuntu.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -556,7 +556,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/opensourceubuntu.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/opensourceubuntu.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[opensourceubuntu.jpg]]></wp:meta_value>
@@ -571,7 +571,7 @@
 		<link>http://www.yeahxj.com/2010/05/07/function-function-object-instanceof/javascript_object_layout/</link>
 		<pubDate>Fri, 07 May 2010 14:27:14 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/javascript_object_layout.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/javascript_object_layout.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -587,7 +587,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/javascript_object_layout.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/javascript_object_layout.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[javascript_object_layout.jpg]]></wp:meta_value>
@@ -602,7 +602,7 @@
 		<link>http://www.yeahxj.com/data/javascript%e5%86%85%e6%a0%b8%e7%b3%bb%e5%88%97/</link>
 		<pubDate>Mon, 10 May 2010 04:57:35 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/JavaScript内核系列.pdf</guid>
+		<guid isPermaLink="false">/wp-content/uploads/JavaScript内核系列.pdf</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -618,7 +618,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/JavaScript内核系列.pdf</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/JavaScript内核系列.pdf</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[JavaScript内核系列.pdf]]></wp:meta_value>
@@ -633,7 +633,7 @@
 		<link>http://www.yeahxj.com/data/html5_canvas/</link>
 		<pubDate>Mon, 10 May 2010 04:58:33 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/html5_canvas.pdf</guid>
+		<guid isPermaLink="false">/wp-content/uploads/html5_canvas.pdf</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -649,7 +649,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/html5_canvas.pdf</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/html5_canvas.pdf</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[html5_canvas.pdf]]></wp:meta_value>
@@ -664,7 +664,7 @@
 		<link>http://www.yeahxj.com/?attachment_id=286</link>
 		<pubDate>Wed, 12 May 2010 14:54:52 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/jhf.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/jhf.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -680,7 +680,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/jhf.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/jhf.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[jhf.jpg]]></wp:meta_value>
@@ -697,7 +697,7 @@
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img class="alignnone size-full wp-image-309" title="movinghorse" src="http://www.yeahxj.com/wp-content/uploads/me_90.jpg" alt="" width="90" height="90" />
+		<content:encoded><![CDATA[<img class="alignnone size-full wp-image-309" title="movinghorse" src="/wp-content/uploads/me_90.jpg" alt="" width="90" height="90" />
 读书读到抽筋处，文思方能如尿崩！<br />
 
 <b>阿里巴巴前端团队招聘，欢迎和我联系！movinghorse在hotmail点com！</b>
@@ -819,11 +819,11 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<description></description>
 		<content:encoded><![CDATA[未做整理，大家随意选择
 
-<a href="http://www.yeahxj.com/wp-content/uploads/JavaScript内核系列.pdf">JavaScript内核系列</a>
+<a href="/wp-content/uploads/JavaScript内核系列.pdf">JavaScript内核系列</a>
 
-<a href="http://www.yeahxj.com/wp-content/uploads/html5_canvas.pdf">html5_canvas</a>
+<a href="/wp-content/uploads/html5_canvas.pdf">html5_canvas</a>
 
-<a href="http://www.yeahxj.com/wp-content/uploads/firebug.pdf">firebug</a>]]></content:encoded>
+<a href="/wp-content/uploads/firebug.pdf">firebug</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>269</wp:post_id>
 		<wp:post_date>2010-05-10 12:58:44</wp:post_date>
@@ -851,7 +851,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<link>http://www.yeahxj.com/data/firebug/</link>
 		<pubDate>Fri, 14 May 2010 13:53:08 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/firebug.pdf</guid>
+		<guid isPermaLink="false">/wp-content/uploads/firebug.pdf</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -867,7 +867,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/firebug.pdf</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/firebug.pdf</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[firebug.pdf]]></wp:meta_value>
@@ -882,7 +882,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<link>http://www.yeahxj.com/2010/05/17/shaoxiaomao/w020090512523814355279/</link>
 		<pubDate>Mon, 17 May 2010 15:16:51 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/W020090512523814355279.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/W020090512523814355279.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -898,7 +898,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/W020090512523814355279.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/W020090512523814355279.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[W020090512523814355279.jpg]]></wp:meta_value>
@@ -913,7 +913,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<link>http://www.yeahxj.com/2010/05/17/shaoxiaomao/p469435742/</link>
 		<pubDate>Mon, 17 May 2010 15:17:17 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/p469435742.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/p469435742.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -929,7 +929,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/p469435742.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/p469435742.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[p469435742.jpg]]></wp:meta_value>
@@ -944,7 +944,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<link>http://www.yeahxj.com/2010/07/09/innerhtml-clonenode-bad/2010-outing/</link>
 		<pubDate>Fri, 09 Jul 2010 13:16:13 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/2010-outing.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/2010-outing.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -960,7 +960,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/2010-outing.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/2010-outing.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2010-outing.jpg]]></wp:meta_value>
@@ -975,7 +975,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<link>http://www.yeahxj.com/about/me_90/</link>
 		<pubDate>Fri, 09 Jul 2010 13:32:30 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/me_90.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/me_90.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -991,7 +991,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/me_90.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/me_90.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:2:"90";s:6:"height";s:2:"90";s:14:"hwstring_small";s:22:"height='90' width='90'";s:4:"file";s:9:"me_90.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}s:10:"wp_smushit";s:28:"Reduced by 4.2% (192&nbsp;B)";}]]></wp:meta_value>
@@ -1006,7 +1006,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<link>http://www.yeahxj.com/2010/08/07/blog-move/made-in-china/</link>
 		<pubDate>Sat, 07 Aug 2010 07:19:31 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/made-in-china.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/made-in-china.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[made-in-china]]></content:encoded>
 		<excerpt:encoded><![CDATA[made-in-china]]></excerpt:encoded>
@@ -1022,7 +1022,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/made-in-china.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/made-in-china.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[made-in-china.jpg]]></wp:meta_value>
@@ -1041,7 +1041,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<link>http://www.yeahxj.com/2010/04/24/coder/vs-you/</link>
 		<pubDate>Wed, 22 Sep 2010 05:24:41 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/vs-you.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/vs-you.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1057,7 +1057,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/vs-you.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/vs-you.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[vs-you.jpg]]></wp:meta_value>
@@ -1072,7 +1072,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<link>http://www.yeahxj.com/2010/04/24/coder/vs/</link>
 		<pubDate>Wed, 22 Sep 2010 05:25:47 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/vs.png</guid>
+		<guid isPermaLink="false">/wp-content/uploads/vs.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1088,7 +1088,7 @@ The number of procrastinators should it decide to try screw in a very lamp? One 
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/vs.png</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/vs.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[vs.png]]></wp:meta_value>
@@ -1157,7 +1157,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<link>http://www.yeahxj.com/2010/10/26/change-domian/domain/</link>
 		<pubDate>Tue, 26 Oct 2010 15:54:41 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/domain.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/domain.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1173,7 +1173,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/domain.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/domain.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[domain.jpg]]></wp:meta_value>
@@ -1188,7 +1188,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<link>http://www.yeahxj.com/?attachment_id=371</link>
 		<pubDate>Fri, 21 Jan 2011 08:37:36 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/big-pic.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/big-pic.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1204,7 +1204,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/big-pic.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/big-pic.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[big-pic.jpg]]></wp:meta_value>
@@ -1215,7 +1215,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<link>http://www.yeahxj.com/?attachment_id=372</link>
 		<pubDate>Fri, 21 Jan 2011 08:40:14 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/big-pic1.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/big-pic1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1231,7 +1231,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/big-pic1.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/big-pic1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[big-pic1.jpg]]></wp:meta_value>
@@ -1242,7 +1242,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<link>http://www.yeahxj.com/2011/02/27/1988-i-want-to-talk-with-the-world/attachment/1988/</link>
 		<pubDate>Sun, 27 Feb 2011 13:26:24 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/1988.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/1988.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[1988：我想和这个世界谈谈]]></content:encoded>
 		<excerpt:encoded><![CDATA[1988：我想和这个世界谈谈]]></excerpt:encoded>
@@ -1258,7 +1258,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/1988.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/1988.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[1988.jpg]]></wp:meta_value>
@@ -1277,7 +1277,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<link>http://www.yeahxj.com/2011/11/07/enter-code-for-all-browser/asr-33_2/</link>
 		<pubDate>Mon, 07 Nov 2011 10:53:11 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/ASR-33_2.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/ASR-33_2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1293,7 +1293,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/ASR-33_2.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/ASR-33_2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[ASR-33_2.jpg]]></wp:meta_value>
@@ -1308,7 +1308,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<link>http://www.yeahxj.com/2011/11/07/enter-code-for-all-browser/asr-33_2-2/</link>
 		<pubDate>Mon, 07 Nov 2011 11:32:34 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/ASR-33_21.jpg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/ASR-33_21.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1324,7 +1324,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/ASR-33_21.jpg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/ASR-33_21.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[ASR-33_21.jpg]]></wp:meta_value>
@@ -1339,7 +1339,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<link>http://www.yeahxj.com/2013/07/07/goodbye-google-reader/attachment/1363250578970/</link>
 		<pubDate>Sun, 07 Jul 2013 06:24:16 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://www.yeahxj.com/wp-content/uploads/1363250578970.jpeg</guid>
+		<guid isPermaLink="false">/wp-content/uploads/1363250578970.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Google Reader]]></content:encoded>
 		<excerpt:encoded><![CDATA[Google Reader]]></excerpt:encoded>
@@ -1355,7 +1355,7 @@ document.createElement('img')在触发各个浏览器下触发onload事件有不
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://www.yeahxj.com/wp-content/uploads/1363250578970.jpeg</wp:attachment_url>
+		<wp:attachment_url>/wp-content/uploads/1363250578970.jpeg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[1363250578970.jpeg]]></wp:meta_value>
@@ -6935,7 +6935,7 @@ p<span style="color: #6666ff">.description</span><span style="color: #00aa00">:<
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=91</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img class="alignnone size-full wp-image-97" title="创造" src="http://www.yeahxj.com/wp-content/uploads/20070424143801851240.jpg" alt="创造" width="500" height="685" />
+		<content:encoded><![CDATA[<img class="alignnone size-full wp-image-97" title="创造" src="/wp-content/uploads/20070424143801851240.jpg" alt="创造" width="500" height="685" />
 用了两年的Win主机和PJBlog终于退场了，主机是用钱买的，没必要感谢。PJBlog是免费用的，感谢下腾讯的<a title="PuterJam" href="http://www.pjhome.net/" target="_blank">PuterJam</a>同学，此asp博客已经灰常不错了！
 
 既然都换了，但是数据还是要啊，所以得把原来在PJBlog中的数据导入到WP中，这里介绍我使用的一种简单方法。
@@ -7219,7 +7219,7 @@ WP不是只能导入2MB...而是php.ini限制了post和upload最多2MB...
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=102</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img class="alignnone size-full wp-image-107" title="InteractionDesign2" src="http://www.yeahxj.com/wp-content/uploads/InteractionDesign2.jpg" alt="InteractionDesign2" width="600" height="458" />
+		<content:encoded><![CDATA[<img class="alignnone size-full wp-image-107" title="InteractionDesign2" src="/wp-content/uploads/InteractionDesign2.jpg" alt="InteractionDesign2" width="600" height="458" />
 
 没有保存的关闭需要确认吗？哦，是的，的确是需要确认的。但是这个确认框为什么总是在屏幕的最中间弹出呢，我的鼠标在叉叉那儿，要是这个不可缺少的确认框能在叉叉的边上那就爽多了，，，其实我们很不想鼠标移来移去。
 
@@ -7509,7 +7509,7 @@ PS: Frontend 是连写词，没有空格滴。]]></wp:comment_content>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=112</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_113" align="alignnone" width="300" caption="翻东西"]<img class="size-medium wp-image-113" title="翻东西" src="http://www.yeahxj.com/wp-content/uploads/fandongxi-300x181.jpg" alt="翻东西" width="300" height="181" />[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_113" align="alignnone" width="300" caption="翻东西"]<img class="size-medium wp-image-113" title="翻东西" src="/wp-content/uploads/fandongxi-300x181.jpg" alt="翻东西" width="300" height="181" />[/caption]
 
 这就是一个创业网站一个主导航下的一个页面，回想起现在要是公司出现了这样的页面，那我今晚肯定没有时间煮泡面了！而且会大动干戈！
 
@@ -7576,7 +7576,7 @@ PS: Frontend 是连写词，没有空格滴。]]></wp:comment_content>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=118</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_119" align="alignnone" width="300" caption="新Google搜索展示"]<a href="http://www.yeahxj.com/wp-content/uploads/new-google.jpg"><img class="size-medium wp-image-119" title="new-google" src="http://www.yeahxj.com/wp-content/uploads/new-google-300x194.jpg" alt="新Google搜索展示" width="300" height="194" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_119" align="alignnone" width="300" caption="新Google搜索展示"]<a href="/wp-content/uploads/new-google.jpg"><img class="size-medium wp-image-119" title="new-google" src="/wp-content/uploads/new-google-300x194.jpg" alt="新Google搜索展示" width="300" height="194" /></a>[/caption]
 
 单击看大图，看高清吧！
 
@@ -7655,7 +7655,7 @@ PS: Frontend 是连写词，没有空格滴。]]></wp:comment_content>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=122</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_123" align="alignnone" width="300" caption="@font-face"]<a href="http://www.yeahxj.com/wp-content/uploads/@font-face.jpg"><img class="size-medium wp-image-123" title="@font-face" src="http://www.yeahxj.com/wp-content/uploads/@font-face-300x193.jpg" alt="@font-face" width="300" height="193" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_123" align="alignnone" width="300" caption="@font-face"]<a href="/wp-content/uploads/@font-face.jpg"><img class="size-medium wp-image-123" title="@font-face" src="/wp-content/uploads/@font-face-300x193.jpg" alt="@font-face" width="300" height="193" /></a>[/caption]
 
 <strong><span>语法：</span></strong>
 <strong>@font-face { font-family : </strong><em>name  ;</em><strong> src : url( </strong><em>url</em><strong> ) </strong><em>; sRules </em><strong>}</strong>
@@ -7852,7 +7852,7 @@ PS: Frontend 是连写词，没有空格滴。]]></wp:comment_content>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=132</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_133" align="alignnone" width="300" caption="Javascript 语言精粹"]<a href="http://www.yeahxj.com/wp-content/uploads/javascript-the-good-parts.jpg"><img class="size-full wp-image-133" title="javascript-the-good-parts" src="http://www.yeahxj.com/wp-content/uploads/javascript-the-good-parts.jpg" alt="Javascript 语言精粹" width="300" height="400" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_133" align="alignnone" width="300" caption="Javascript 语言精粹"]<a href="/wp-content/uploads/javascript-the-good-parts.jpg"><img class="size-full wp-image-133" title="javascript-the-good-parts" src="/wp-content/uploads/javascript-the-good-parts.jpg" alt="Javascript 语言精粹" width="300" height="400" /></a>[/caption]
 
 <strong>看《Javascript语言精粹》上看到的，挺有意思的，权当记录。</strong>
 
@@ -8014,7 +8014,7 @@ return value && typeof value === 'object' && typeof value.length === 'number' &&
 第四张专辑 All I Ever Wanted 推出时间 2009年3月10日 全美销量 810,000 全球销量 1,500,000
 <h3><strong>自己曾今无比喜欢这首歌，原版的我就不推荐了，传唱无数，街头巷尾，随处可听！这首是我最近发现的另外一个版本，Kelly Clarkson ft.Reba Mcentire - Because Of You (2rd Version)，也是无比动听！</strong></h3>
 
-<a href="http://www.yeahxj.com/wp-content/uploads/Kelly-Clarkson.jpg"><img class="alignnone size-full wp-image-202" title="Kelly-Clarkson" src="http://www.yeahxj.com/wp-content/uploads/Kelly-Clarkson.jpg" alt="" width="500" height="500" /></a>]]></content:encoded>
+<a href="/wp-content/uploads/Kelly-Clarkson.jpg"><img class="alignnone size-full wp-image-202" title="Kelly-Clarkson" src="/wp-content/uploads/Kelly-Clarkson.jpg" alt="" width="500" height="500" /></a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>201</wp:post_id>
 		<wp:post_date>2010-01-08 01:14:22</wp:post_date>
@@ -8107,7 +8107,7 @@ return value && typeof value === 'object' && typeof value.length === 'number' &&
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=207</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_219" align="alignnone" width="500" caption="正则表达式"]<a href="http://www.yeahxj.com/wp-content/uploads/c728354.jpg"><img src="http://www.yeahxj.com/wp-content/uploads/c728354.jpg" alt="正则表达式" title="正则表达式" width="500" height="307" class="size-full wp-image-219" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_219" align="alignnone" width="500" caption="正则表达式"]<a href="/wp-content/uploads/c728354.jpg"><img src="/wp-content/uploads/c728354.jpg" alt="正则表达式" title="正则表达式" width="500" height="307" class="size-full wp-image-219" /></a>[/caption]
 <pre lang="javascript" line="1">
 var r = /^\w+?([\.]?[a-zA-Z0-9\-]+)*?@[a-zA-Z0-9]+([-.][a-zA-Z0-9]+)*\.[a-zA-Z]+$/;
 var s = r.test('asdfasdfasdfasdfasdfasdfasdfasdfasdsdffgggasdfa');
@@ -8172,7 +8172,7 @@ alert(s);
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=209</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_210" align="alignnone" width="550" caption="好一朵美丽的茉莉花"]<a href="http://www.yeahxj.com/wp-content/uploads/molihua.jpg"><img class="size-full wp-image-210" title="茉莉花" src="http://www.yeahxj.com/wp-content/uploads/molihua.jpg" alt="好一朵美丽的茉莉花" width="550" height="778" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_210" align="alignnone" width="550" caption="好一朵美丽的茉莉花"]<a href="/wp-content/uploads/molihua.jpg"><img class="size-full wp-image-210" title="茉莉花" src="/wp-content/uploads/molihua.jpg" alt="好一朵美丽的茉莉花" width="550" height="778" /></a>[/caption]
 
 试听1：<object id="divmp3" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="325" height="28" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.divshare.com/flash/playlist?myId=10541401-a37" /><param name="name" value="divmp3" /><embed id="divmp3" type="application/x-shockwave-flash" width="325" height="28" src="http://www.divshare.com/flash/playlist?myId=10541401-a37" name="divmp3"></embed></object>
 
@@ -8235,7 +8235,7 @@ alert(s);
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=224</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_225" align="alignnone" width="500" caption="mother"]<a href="http://www.yeahxj.com/wp-content/uploads/mother.jpg"><img class="size-full wp-image-225" title="mother" src="http://www.yeahxj.com/wp-content/uploads/mother.jpg" alt="mother" width="500" height="717" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_225" align="alignnone" width="500" caption="mother"]<a href="/wp-content/uploads/mother.jpg"><img class="size-full wp-image-225" title="mother" src="/wp-content/uploads/mother.jpg" alt="mother" width="500" height="717" /></a>[/caption]
 
 奉俊昊的第三部我所知道的作品-《母亲》。这是一部有关伦理的故事，从一开始在韩寒的博客上看到这本电影，然后在从这本电影的影评中知道这才才俊的第一本作品《杀人回忆》。
 
@@ -8308,7 +8308,7 @@ alert(s);
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=239</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_238" align="alignnone" width="292" caption="CouchDB"]<a href="http://www.yeahxj.com/wp-content/uploads/sketch.png"><img class="size-full wp-image-238" title="CouchDB" src="http://www.yeahxj.com/wp-content/uploads/sketch.png" alt="CouchDB" width="292" height="340" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_238" align="alignnone" width="292" caption="CouchDB"]<a href="/wp-content/uploads/sketch.png"><img class="size-full wp-image-238" title="CouchDB" src="/wp-content/uploads/sketch.png" alt="CouchDB" width="292" height="340" /></a>[/caption]
 
 事情的来源是：
 
@@ -8381,7 +8381,7 @@ alert(s);
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=242</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a href="http://www.yeahxj.com/wp-content/uploads/candice-michelle-go-daddy.jpg"><img class="alignnone size-full wp-image-243" title="candice-michelle-go-daddy" src="http://www.yeahxj.com/wp-content/uploads/candice-michelle-go-daddy.jpg" alt="" width="376" height="490" /></a>
+		<content:encoded><![CDATA[<a href="/wp-content/uploads/candice-michelle-go-daddy.jpg"><img class="alignnone size-full wp-image-243" title="candice-michelle-go-daddy" src="/wp-content/uploads/candice-michelle-go-daddy.jpg" alt="" width="376" height="490" /></a>
 
 Godaddy是世界第一大域名注册商,昨天终于让我进去了...
 
@@ -8616,7 +8616,7 @@ Godaddy是世界第一大域名注册商,昨天终于让我进去了...
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=246</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_248" align="alignnone" width="225" caption="firefox-chrome-ie"]<a href="http://www.yeahxj.com/wp-content/uploads/firefox-chrome-ie.png"><img class="size-full wp-image-248" title="firefox-chrome-ie" src="http://www.yeahxj.com/wp-content/uploads/firefox-chrome-ie.png" alt="firefox-chrome-ie" width="225" height="207" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_248" align="alignnone" width="225" caption="firefox-chrome-ie"]<a href="/wp-content/uploads/firefox-chrome-ie.png"><img class="size-full wp-image-248" title="firefox-chrome-ie" src="/wp-content/uploads/firefox-chrome-ie.png" alt="firefox-chrome-ie" width="225" height="207" /></a>[/caption]
 
 有道 "Firefox在速度上暂时落后于chrome safari和opera。原因并不是Mozilla技术差，而是因为其他浏览器支持的javascript，只是Firefox的一个子集，有很多东西，被其他浏览器忽略了。
 <strong> 1)只有Firefox支持E4X：</strong>
@@ -8713,7 +8713,7 @@ HTML中部分属性，只有Firefox才能通过js去调用，其他浏览器只�
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=251</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a href="http://www.yeahxj.com/wp-content/uploads/opensourceubuntu.jpg"><img class="alignnone size-full wp-image-252" title="open-source-ubuntu" src="http://www.yeahxj.com/wp-content/uploads/opensourceubuntu.jpg" alt="" width="500" height="333" /></a>
+		<content:encoded><![CDATA[<a href="/wp-content/uploads/opensourceubuntu.jpg"><img class="alignnone size-full wp-image-252" title="open-source-ubuntu" src="/wp-content/uploads/opensourceubuntu.jpg" alt="" width="500" height="333" /></a>
 <h3>什么是许可协议？</h3>
 什么是许可，当你为你的产品签发许可，你是在出让自己的权利，不过，你仍然拥有版权和专利（如果申请了的话），许可的目的是，向使用你产品的人提供一定的权限。
 
@@ -8867,12 +8867,12 @@ Creative Commons (CC) 并非严格意义上的开源许可，它主要用于设�
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=256</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a href="http://www.yeahxj.com/wp-content/uploads/vs.png"><img src="http://www.yeahxj.com/wp-content/uploads/vs.png" alt="" title="vs" width="557" height="376" /></a>
+		<content:encoded><![CDATA[<a href="/wp-content/uploads/vs.png"><img src="/wp-content/uploads/vs.png" alt="" title="vs" width="557" height="376" /></a>
 
 一位热衷于编程的程序员，一位爱上了程序员的女孩，他们的故事.
 最后一集一开始美女就说：“妈妈说你什么都好，就不该是个程序员”，看来做开发的同学都要肉牛满面了……
 
-<a href="http://www.yeahxj.com/wp-content/uploads/vs-you.jpg"><img src="http://www.yeahxj.com/wp-content/uploads/vs-you.jpg" alt="" title="vs-you" width="640" height="400" /></a>
+<a href="/wp-content/uploads/vs-you.jpg"><img src="/wp-content/uploads/vs-you.jpg" alt="" title="vs-you" width="640" height="400" /></a>
 
 <strong>微软程序员YY广告全集回顾：</strong>
 
@@ -8949,7 +8949,7 @@ alert(Foo instanceof Function); // true
 alert(Foo instanceof Object); // true</pre>
 先上图：
 
-<a href="http://www.yeahxj.com/wp-content/uploads/javascript_object_layout.jpg"><img class="alignnone size-full wp-image-261" title="javascript_object_layout" src="http://www.yeahxj.com/wp-content/uploads/javascript_object_layout.jpg" alt="" width="611" height="760" /></a>
+<a href="/wp-content/uploads/javascript_object_layout.jpg"><img class="alignnone size-full wp-image-261" title="javascript_object_layout" src="/wp-content/uploads/javascript_object_layout.jpg" alt="" width="611" height="760" /></a>
 
 以上这张图杂乱无章，其实我不太看懂，那先看下下面这些例子：
 
@@ -9192,7 +9192,7 @@ c) c1.__proto__ = Class.prototype
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=290</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a href="http://www.yeahxj.com/wp-content/uploads/p469435742.jpg"><img class="alignnone size-full wp-image-292" title="p469435742" src="http://www.yeahxj.com/wp-content/uploads/p469435742.jpg" alt="" width="300" height="450" /></a><a href="http://www.yeahxj.com/wp-content/uploads/W020090512523814355279.jpg"><img class="alignnone size-full wp-image-291" title="W020090512523814355279" src="http://www.yeahxj.com/wp-content/uploads/W020090512523814355279.jpg" alt="" width="390" height="322" /></a>
+		<content:encoded><![CDATA[<a href="/wp-content/uploads/p469435742.jpg"><img class="alignnone size-full wp-image-292" title="p469435742" src="/wp-content/uploads/p469435742.jpg" alt="" width="300" height="450" /></a><a href="/wp-content/uploads/W020090512523814355279.jpg"><img class="alignnone size-full wp-image-291" title="W020090512523814355279" src="/wp-content/uploads/W020090512523814355279.jpg" alt="" width="390" height="322" /></a>
 
 简介：本名邵夷贝，昵称小毛。北京大学新闻系毕业。原创民谣歌手，独立音乐人。文字、绘画、戏剧创作者。
 流派：民谣/Folk
@@ -9531,7 +9531,7 @@ if( aClone.length > 0 && aClone.length == aSelect.length ){
 	};
 }</pre>
 随即，附送美图一张：
-<a href="http://www.yeahxj.com/wp-content/uploads/2010-outing.jpg"><img class="alignnone size-medium wp-image-301" title="2010-outing" src="http://www.yeahxj.com/wp-content/uploads/2010-outing-300x63.jpg" alt="" width="300" height="63" /></a>
+<a href="/wp-content/uploads/2010-outing.jpg"><img class="alignnone size-medium wp-image-301" title="2010-outing" src="/wp-content/uploads/2010-outing-300x63.jpg" alt="" width="300" height="63" /></a>
 点击小图看大图，这次outing最欢畅的就是住五星，很豪华很奢侈！]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>298</wp:post_id>
@@ -9608,7 +9608,7 @@ if( aClone.length > 0 && aClone.length == aSelect.length ){
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=316</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a href="http://www.yeahxj.com/wp-content/uploads/made-in-china.jpg"><img src="http://www.yeahxj.com/wp-content/uploads/made-in-china.jpg" alt="made-in-china" title="made-in-china" width="600" height="221" class="size-full wp-image-317" /></a>
+		<content:encoded><![CDATA[<a href="/wp-content/uploads/made-in-china.jpg"><img src="/wp-content/uploads/made-in-china.jpg" alt="made-in-china" title="made-in-china" width="600" height="221" class="size-full wp-image-317" /></a>
 这可能是很简单的活儿，大师们肯定很不屑，但因为之前一直没干过，我想第一次，无论怎样，总是值得纪念的。
 
 最早是从windows的主机迁移到Linux的，没其他的办法，只有FTP。
@@ -10324,7 +10324,7 @@ ln -s /usr/lib/libsqlite3.so.0.8.6 /usr/lib/libsqlite3.so.0
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=375</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_376" align="alignnone" width="383" caption="1988：我想和这个世界谈谈"]<a href="http://www.yeahxj.com/wp-content/uploads/1988.jpg"><img src="http://www.yeahxj.com/wp-content/uploads/1988.jpg" alt="1988：我想和这个世界谈谈" title="1988" width="383" height="544" class="size-full wp-image-376" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_376" align="alignnone" width="383" caption="1988：我想和这个世界谈谈"]<a href="/wp-content/uploads/1988.jpg"><img src="/wp-content/uploads/1988.jpg" alt="1988：我想和这个世界谈谈" title="1988" width="383" height="544" class="size-full wp-image-376" /></a>[/caption]
 <strong>其实这本书早就看完了，当时摘录了一些文字，不敢独藏，唯有共享。</strong>
 -------------------------------------------------------------------------------------------------------------------------
 孟孟瞪大眼睛，看着我，说，你知道么，如果当时这段视频能发出去，也许我早就红了。
@@ -10575,7 +10575,7 @@ ln -s /usr/lib/libsqlite3.so.0.8.6 /usr/lib/libsqlite3.so.0
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=387</guid>
 		<description></description>
 		<content:encoded><![CDATA[先认识下回车符：
-<a href="http://www.yeahxj.com/wp-content/uploads/ASR-33_21.jpg"><img src="http://www.yeahxj.com/wp-content/uploads/ASR-33_21.jpg" alt="" title="ASR-33_2" width="500" height="375" class="alignnone size-full wp-image-391" /></a>
+<a href="/wp-content/uploads/ASR-33_21.jpg"><img src="/wp-content/uploads/ASR-33_21.jpg" alt="" title="ASR-33_2" width="500" height="375" class="alignnone size-full wp-image-391" /></a>
 在计算机还没有出现之前，有一种叫做电传打字机（Teletype Model 33）的玩意，每秒钟可以打10个字符。但是它有一个问题，就是打完一行换行的时候，要用去0.2秒，正好可以打两个字符。要是在这0.2秒里面，又有新的字符传过来，那么这个字符将丢失。
 
 于是，研制人员想了个办法解决这个问题，就是在每行后面加两个表示结束的字符。一个叫做“回车”，告诉打字机把打印头定位在左边界；另一个叫做“换行”，告诉打字机把纸向下移一行。
@@ -10784,7 +10784,7 @@ PHP VM with JavaScript]]></content:encoded>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://www.yeahxj.com/?p=451</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img src="http://www.yeahxj.com/wp-content/uploads/1363250578970.jpeg" alt="Google Reader" width="610" height="254" class="size-full wp-image-452" />
+		<content:encoded><![CDATA[<img src="/wp-content/uploads/1363250578970.jpeg" alt="Google Reader" width="610" height="254" class="size-full wp-image-452" />
 
 
 原本我是打算发微博的，发现微博140个字不够用。
