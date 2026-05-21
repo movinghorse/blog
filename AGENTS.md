@@ -4,19 +4,18 @@ This file provides guidance to Codex (Codex.ai/code) when working with code in t
 
 ## Overview
 
-This is a Hexo blog repository. The blog is deployed to GitHub Pages at https://yeahxj.com.
+This is a Hexo blog repository. The blog is deployed to GitHub Pages at https://www.yeahxj.com/.
 
 ## Common Commands
 
 - `npm run server` - Start local dev server (http://localhost:4000)
 - `npm run build` - Generate static files to `./public`
-- `npm run deploy` - Build and deploy to GitHub Pages
 - `npm run clean` - Clear generated files and cache
 
 ## Site Configuration
 
 - Root config: `_config.yml`
-- Active theme: `light` (configured in `_config.yml` theme field)
+- Active theme: `linen` (configured in `_config.yml` theme field)
 - Theme `next` exists in `themes/next/` with full configuration but is not currently active
 
 ## Content Structure
@@ -33,6 +32,8 @@ GitHub Actions workflow in `.github/workflows/pages.yml` handles CI/CD:
 - Uses Node 22
 - Deploys `./public` to `gh-pages` branch
 - Registry is set to https://registry.npmjs.org/ in CI
+- Do not run `npm run deploy` manually for this project; pushing to `main` triggers deployment automatically.
+- Production URL: https://www.yeahxj.com/
 
 ## Architecture Notes
 
