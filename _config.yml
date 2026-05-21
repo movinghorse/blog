@@ -9,7 +9,7 @@ description: '行骏的个人博客，记录行骏的所思所想'
 keywords: '行骏,行骏的博客,行骏的个人博客'
 author: 'Xj Ye'
 language: zh-CN
-timezone: ''
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
