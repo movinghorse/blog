@@ -1,12 +1,10 @@
-# 工作流名称
 name: Deploy to GitHub Pages
 
-# 触发条件：推送到 main 分支
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:
 
-# GitHub Pages 官方部署需要这些权限
 permissions:
   contents: read
   pages: write
@@ -18,31 +16,28 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # 运行环境
+    runs-on: ubuntu-latest
     steps:
-      # 步骤1：拉取仓库代码
       - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      # 步骤2：构建项目
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22  # 适配你的项目Node版本
-          cache: 'npm'      # 启用npm缓存提高构建速度
+          node-version: 22
+          cache: npm
 
       - name: Install dependencies
-        run: |
-          npm config set registry https://registry.npmjs.org/
-          # 如果 package-lock.json 包含私有仓库地址，可能导致安装失败，建议用户在本地重新生成
-          # 这里强制使用 npm install 尝试修复，如果仍然失败，请在本地删除 package-lock.json 后重新 npm install 并提交
-          npm install --force
+        run: npm ci
 
       - name: Build project
-        run: npm run build  # 打包命令，生成public目录
+        run: npm run build
+
+      - name: Verify build output
+        run: test -f public/index.html
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3

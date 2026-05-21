@@ -7,17 +7,30 @@ if (page.category) title.push(page.category);
 if (page.tag) title.push(page.tag);
 if (page.archive) title.push(__('archive'));
 title.push(config.title);
+var rawDescription = page.description || '';
+if (!rawDescription && page.excerpt) rawDescription = strip_html(page.excerpt);
+if (!rawDescription && page.content) rawDescription = strip_html(page.content).substring(0, 160);
+if (!rawDescription) rawDescription = config.description || '';
+var description = rawDescription.replace(/\s+/g, ' ').replace(/^\s+|\s+$/g, '');
+var canonicalPath = page.path || '';
+canonicalPath = canonicalPath.replace(/(^|\/)index\.html$/, '$1');
+var canonicalUrl = full_url_for(canonicalPath);
+var ogTitle = page.title || config.title;
+var ogType = page.layout === 'post' ? 'article' : 'website';
 %>
 <title><%= title.join(' | ') %></title>
 <% if (config.author){ %><meta name="author" content="<%= config.author %>"><% } %>
-<% if (page.description){ %>
-<meta name="description" content="<%= page.description %>">
-<% } else if (config.description){ %>
-<meta name="description" content="<%= config.description %>">
+<% if (description){ %>
+<meta name="description" content="<%= description %>">
 <% } %>
 <% if (page.keywords || config.keywords){ %><meta name="keywords" content="<%= page.keywords || config.keywords %>"><% } %>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="canonical" href="<%- canonicalUrl %>">
 <meta property="og:site_name" content="<%= config.title %>">
-<% if (page.title){ %><meta property="og:title" content="<%= page.title %>"><% } %>
+<meta property="og:title" content="<%= ogTitle %>">
+<% if (description){ %><meta property="og:description" content="<%= description %>"><% } %>
+<meta property="og:type" content="<%= ogType %>">
+<meta property="og:url" content="<%- canonicalUrl %>">
+<meta name="twitter:card" content="summary">
 <link rel="alternate" href="<% if (theme.rss){ %><%- theme.rss %><% } else { %><%- config.root %>atom.xml<% } %>" title="<%= config.title %>" type="application/atom+xml">
 <link rel="stylesheet" href="<%- config.root %>css/style.css">

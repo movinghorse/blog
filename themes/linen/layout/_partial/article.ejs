@@ -13,3 +13,6 @@
     <%- post.content %>
   </div>
 </article>
+<% if (!pageLayout){ %>
+  <%- partial('post_nav', {post: post}) %>
+<% } %>

@@ -1,10 +1,10 @@
 menu:
-  Home:
-  Archives: archives
-  Tools: tools/
-  Coding: coding/
-  Jobs: jobs/
-  About: aboutme.html
+  首页:
+  归档: archives
+  工具: tools/
+  编程: coding/
+  招聘: jobs/
+  关于: aboutme.html
 
 excerpt_link: Continue reading
 rss:

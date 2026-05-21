@@ -267,6 +267,39 @@ img {
   border-top: 1px solid var(--line);
 }
 
+.post-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  max-width: var(--measure);
+  margin-top: 46px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.post-nav-item {
+  display: grid;
+  gap: 4px;
+  text-decoration: none;
+}
+
+.post-nav-item:last-child {
+  justify-items: end;
+  text-align: right;
+}
+
+.post-nav-item span {
+  color: var(--muted);
+  font-size: 0.76rem;
+}
+
+.post-nav-item strong {
+  font-size: 0.94rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
 .pager {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -333,6 +366,15 @@ img {
 
   .post-row h2 {
     margin-top: 0;
+  }
+
+  .post-nav {
+    grid-template-columns: 1fr;
+  }
+
+  .post-nav-item:last-child {
+    justify-items: start;
+    text-align: left;
   }
 
   .site-footer {

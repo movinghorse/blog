@@ -4,3 +4,5 @@ archive: Archive
 category: Category
 tag: Tag
 all: All
+newer_post: Newer post
+older_post: Older post

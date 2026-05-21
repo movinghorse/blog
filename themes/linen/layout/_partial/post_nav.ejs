@@ -1,0 +1,18 @@
+<% if (post.prev || post.next){ %>
+  <nav class="post-nav" aria-label="Post navigation">
+    <% if (post.prev){ %>
+      <a class="post-nav-item" href="<%- url_for(post.prev.path) %>">
+        <span><%= __('newer_post') %></span>
+        <strong><%= post.prev.title || 'Untitled' %></strong>
+      </a>
+    <% } else { %>
+      <span></span>
+    <% } %>
+    <% if (post.next){ %>
+      <a class="post-nav-item" href="<%- url_for(post.next.path) %>">
+        <span><%= __('older_post') %></span>
+        <strong><%= post.next.title || 'Untitled' %></strong>
+      </a>
+    <% } %>
+  </nav>
+<% } %>

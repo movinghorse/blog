@@ -28,10 +28,10 @@ This is a Hexo blog repository. The blog is deployed to GitHub Pages at https://
 ## Deployment
 
 GitHub Actions workflow in `.github/workflows/pages.yml` handles CI/CD:
-- Triggers on push to `main` branch
+- Triggers on push to `main` branch and manual `workflow_dispatch`
 - Uses Node 22
-- Deploys `./public` to `gh-pages` branch
-- Registry is set to https://registry.npmjs.org/ in CI
+- Installs dependencies with `npm ci`
+- Builds `./public`, uploads it as a GitHub Pages artifact, and deploys with `actions/deploy-pages`
 - Do not run `npm run deploy` manually for this project; pushing to `main` triggers deployment automatically.
 - Production URL: https://www.yeahxj.com/
 

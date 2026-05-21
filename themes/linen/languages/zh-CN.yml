@@ -4,3 +4,5 @@ archive: 归档
 category: 分类
 tag: 标签
 all: 全部
+newer_post: 较新一篇
+older_post: 较早一篇

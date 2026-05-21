@@ -1,11 +1,14 @@
 <article class="post-row">
+  <%
+  var excerptSource = post.excerpt || post.content || '';
+  var excerpt = strip_html(excerptSource).replace(/\s+/g, ' ').replace(/^\s+|\s+$/g, '');
+  if (excerpt.length > 150) excerpt = excerpt.substring(0, 150) + '...';
+  %>
   <time datetime="<%= post.date.toDate().toISOString() %>"><%= post.date.format(config.date_format) %></time>
   <div>
     <h2><a href="<%- url_for(post.path) %>"><%= post.title || 'Untitled' %></a></h2>
-    <% if (post.excerpt){ %>
-      <div class="post-excerpt"><%- strip_html(post.excerpt).replace(/^\s+|\s+$/g, '').substring(0, 140) %></div>
-    <% } else if (post.content){ %>
-      <div class="post-excerpt"><%- strip_html(post.content).replace(/^\s+|\s+$/g, '').substring(0, 140) %></div>
+    <% if (excerpt){ %>
+      <div class="post-excerpt"><%= excerpt %></div>
     <% } %>
   </div>
 </article>
