@@ -7,7 +7,7 @@
   --accent: #3a6758;
   --accent-2: #8a4f38;
   --code-bg: #eeeeea;
-  --measure: 720px;
+  --measure: 1040px;
 }
 
 * {
@@ -125,7 +125,7 @@ img {
 }
 
 .post-list {
-  max-width: 880px;
+  max-width: var(--measure);
   border-top: 1px solid var(--line);
 }
 
@@ -156,7 +156,6 @@ img {
 }
 
 .post-excerpt {
-  max-width: 620px;
   color: var(--muted);
   font-size: 0.94rem;
   line-height: 1.7;
@@ -307,11 +306,16 @@ img {
   border-top: 1px solid var(--line);
 }
 
+.comments .giscus,
+.comments .giscus-frame {
+  width: 100%;
+}
+
 .pager {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 16px;
-  max-width: 880px;
+  max-width: var(--measure);
   margin-top: 34px;
   padding-top: 22px;
   border-top: 1px solid var(--line);
