@@ -8,3 +8,18 @@ menu:
 
 excerpt_link: Continue reading
 rss:
+
+giscus:
+  enable: true
+  repo: movinghorse/blog
+  repo_id: MDEwOlJlcG9zaXRvcnk1NjI5MTA3
+  category: Announcements
+  category_id: DIC_kwDOAFXks84C-Rtd
+  mapping: pathname
+  strict: 0
+  reactions_enabled: 1
+  emit_metadata: 0
+  input_position: bottom
+  theme: preferred_color_scheme
+  lang: zh-CN
+  loading: lazy

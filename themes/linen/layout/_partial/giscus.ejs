@@ -1,0 +1,21 @@
+<% var comments = theme.giscus || {}; %>
+<% if (comments.enable && comments.repo && comments.repo_id && comments.category && comments.category_id) { %>
+  <section class="comments" aria-label="评论">
+    <script src="https://giscus.app/client.js"
+      data-repo="<%= comments.repo %>"
+      data-repo-id="<%= comments.repo_id %>"
+      data-category="<%= comments.category %>"
+      data-category-id="<%= comments.category_id %>"
+      data-mapping="<%= comments.mapping || 'pathname' %>"
+      data-strict="<%= comments.strict || 0 %>"
+      data-reactions-enabled="<%= comments.reactions_enabled === 0 ? 0 : 1 %>"
+      data-emit-metadata="<%= comments.emit_metadata || 0 %>"
+      data-input-position="<%= comments.input_position || 'bottom' %>"
+      data-theme="<%= comments.theme || 'preferred_color_scheme' %>"
+      data-lang="<%= comments.lang || config.language || 'zh-CN' %>"
+      data-loading="<%= comments.loading || 'lazy' %>"
+      crossorigin="anonymous"
+      async>
+    </script>
+  </section>
+<% } %>
